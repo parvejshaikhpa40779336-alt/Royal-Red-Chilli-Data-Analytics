@@ -31,5 +31,5 @@ To use SQL and Power BI to analyze business data, monitor sales and inventory, a
 Note
 The results represent the data available in the project database and may not represent actual business performance.
 
-From <https://chatgpt.com/c/6ad8ad42-dc58-83ee-96c5-c15cf6063ed3> 
+
 
